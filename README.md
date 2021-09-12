@@ -1,4 +1,4 @@
 - 👋 Hello, my name is Clayton Hunter.
-- 👀 My current interests are: "Web Developement", "Game Developement" and "Security".
+- 👀 My current interests are: "Web Developement", "Game Developement" and "Security Developement".
 - 🌱 I’m currently studying Computer Systems Technology.
 - 📫 You can contact me by email: claytonhunter10@gmail.com
