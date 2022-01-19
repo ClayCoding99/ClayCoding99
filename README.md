@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Clayton Hunter
-- 👀 My current interests are as follows:
+- 👀 My current interests are as follows:\n
         a) backend web developement
         b) game developement
         c) AI developement.
